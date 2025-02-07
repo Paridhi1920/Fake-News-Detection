@@ -16,7 +16,7 @@ Fake news has become a significant problem in the digital age. This project aims
 
 ✅ **Features:**
 - Load and preprocess news datasets  
-- Train ML models (Logistic Regression, Naïve Bayes, etc.)  
+- Train ML models using Logistic Regression   
 - Predict whether a news article is **Fake** or **Real**  
 - Web interface using Streamlit  
 
