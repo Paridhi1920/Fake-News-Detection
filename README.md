@@ -35,10 +35,10 @@ The dataset used is **Fake News Dataset** from Kaggle.
 ---
 
 ## 📌 Files in This Repository
-📜 **`Fake-News-Detection.ipynb`** → Jupyter Notebook with model training & evaluation  
+📜 **`news-Detection.ipynb`** → Jupyter Notebook with model training & evaluation  
 📂 **`app.py`** → Streamlit web app for prediction  
 📄 **`requirements.txt`** → List of dependencies  
-📊 **`data.csv`** → Dataset used for training  
+📊 **`Fake.csv` & `True.csv`** → Dataset used for training  
 📦 **`vectorizer.pkl` & `model.pkl`** → Trained ML model & vectorizer  
 
 ---
